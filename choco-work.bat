@@ -1,44 +1,44 @@
 @echo off
 REM Management
-choco install powershell
+choco install powershell -y
 
 REM Browsers
-choco install googlechrome
-choco install firefox
+choco install googlechrome -y
+choco install firefox -y
 
 REM Chat
-choco install slack
-choco install hipchat
+choco install slack -y
+choco install hipchat -y
 
 REM SSH Utilities
-choco install winscp
-choco install putty
+choco install winscp -y
+choco install putty -y
 
 REM Cloud Storage
-choco install dropbox
-choco install onedrive
-choco install googledrive
-choco install google-drive-file-stream
+choco install dropbox -y
+choco install onedrive -y
+choco install googledrive -y
+choco install google-drive-file-stream -y
 
 REM Productivity
-choco install atom
-choco install office365proplus
-choco install adobereader
-choco install lightshot
+choco install atom -y
+choco install office365proplus -y
+choco install adobereader -y
+choco install lightshot -y
 
 REM Security
-choco install lastpass
-choco install openvpn
+choco install lastpass -y
+choco install openvpn -y
 
 REM Tracking
-choco install toggl
-choco install rescuetime
+choco install toggl -y
+choco install rescuetime -y
 
 REM SQL
-choco install db-visualizer
+choco install db-visualizer -y
 
 REM Virtualization
-choco install rvtools
+choco install rvtools -y
 
 REM Development
-choco install github
+choco install github -y
