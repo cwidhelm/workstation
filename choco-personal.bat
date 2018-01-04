@@ -1,3 +1,3 @@
 @echo off
 REM Personal
-choco install twitch
+choco install twitch -y
