@@ -1,43 +1,44 @@
-# Management
+@echo off
+REM Management
 choco install powershell
 
-# Browsers
+REM Browsers
 choco install googlechrome
 choco install firefox
 
-# Chat
+REM Chat
 choco install slack
 choco install hipchat
 
-# SSH Utilities
+REM SSH Utilities
 choco install winscp
 choco install putty
 
-# Cloud Storage
+REM Cloud Storage
 choco install dropbox
 choco install onedrive
 choco install googledrive
 choco install google-drive-file-stream
 
-# Productivity
+REM Productivity
 choco install atom
 choco install office365proplus
 choco install adobereader
 choco install lightshot
 
-# Security
+REM Security
 choco install lastpass
 choco install openvpn
 
-# Tracking
+REM Tracking
 choco install toggl
 choco install rescuetime
 
-# SQL
+REM SQL
 choco install db-visualizer
 
-# Virtualization
+REM Virtualization
 choco install rvtools
 
-# Development
+REM Development
 choco install github
