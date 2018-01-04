@@ -36,6 +36,7 @@ choco install rescuetime -y
 
 REM SQL
 choco install db-visualizer -y
+choco install sql-server-management-studio -y
 
 REM Virtualization
 choco install rvtools -y
