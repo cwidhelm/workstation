@@ -6,6 +6,9 @@ REM Browsers
 choco install googlechrome -y
 choco install firefox -y
 
+REM Web Tools
+choco install postman -y
+
 REM Chat
 choco install slack -y
 choco install hipchat -y
